@@ -1,0 +1,1 @@
+command to move up one level in the directory tree is cd ..

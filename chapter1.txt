@@ -1,0 +1,1 @@
+alt + cursor can be used to edit anywhere in cmd line.
